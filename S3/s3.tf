@@ -14,10 +14,11 @@ resource "aws_s3_bucket" "vinicius-tf-buckett" {
 
 
 /*
-Preparar diretorio: init
+Preparar diretorio: terraform init
 Validar codigo: terraform validate
-O que esse cod vai fazer: terraform plan
-Criar/Atualizar bucket:  terraform apply
+O que esse cod vai fazer: terraform plan -var-file="prod.tfvars"
+Criar/Atualizar bucket:  terraform apply -var-file="prod.tfvars"
 Deletar bucket = terraform destroy
+Formatar o codigo: terraform fmt
 */
 
