@@ -11,7 +11,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-
 Skip to content
 Search or jump to…
 Pull requests
@@ -43,6 +42,10 @@ Latest commit c0ca848 on Feb 11
 
 # Local .terraform directories
 **/.terraform/*
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
 
 # .tfstate files
 *.tfstate
@@ -89,3 +92,4 @@ API
 Training
 Blog
 About
+
