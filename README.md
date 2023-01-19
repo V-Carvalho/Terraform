@@ -4,6 +4,8 @@
 
 O projeto busca desenvolver os conhecimentos sobre Terraform, dentro desse escopo diversos arquivos com modelos de estruturas serão criados nesse repositório.
 
+* [Documentação](https://registry.terraform.io/browse/providers)
+
 ## 🔧 Ferramentas Utilizadas
 
 * Terraform
