@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/file-app-ads-txt.appspot.com/o/terraform-icon.svg?alt=media&token=ba2a9d1e-b16d-479c-a2b2-a3e4fa76862b" width=50% height=50%>
+<img src="https://firebasestorage.googleapis.com/v0/b/file-app-ads-txt.appspot.com/o/terraform-icon.svg?alt=media&token=ba2a9d1e-b16d-479c-a2b2-a3e4fa76862b" width=40% height=40%>
 
 ## 📝 Descrição
 
